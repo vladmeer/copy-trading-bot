@@ -6,6 +6,7 @@ Supported on Raydium, Jupiter and Pumpfun
 
 ### Enhanced websocket
 
+```json
 {
   "jsonrpc": "2.0",
   "id": 420,
