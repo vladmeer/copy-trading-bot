@@ -29,6 +29,7 @@ Supported on Raydium, Jupiter and Pumpfun
       }
   ]
 }
+```
 
 # 👤 Author
 
