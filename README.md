@@ -4,6 +4,14 @@ A copy trading bot on Solana automatically tracks and mimics the trades of a spe
 
 Supported on Raydium, Jupiter and Pumpfun
 
+### Bot Features
+
+- Track Token Swaps: Continuously monitors every token swap on the Solana network to identify the best opportunities.
+- Trade Across Multiple DEXs: Swap tokens on any supported decentralized exchange according to your preferences.
+- Automatic Trades: Let the bot automatically buy and sell based on your customized strategy, so you don’t have to lift a finger.
+- Customizable Trading Strategy: Tailor your own trading approach to fit your risk tolerance and goals.
+- Multi-Wallet Support: Set up and manage multiple wallets, executing trades on each at the same time.
+
 ### Enhanced websocket
 
 ```json
