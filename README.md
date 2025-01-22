@@ -10,7 +10,7 @@ Supported on Raydium, Jupiter and Pumpfun
 - Trade Across Multiple DEXs: Swap tokens on any supported decentralized exchange according to your preferences.
 - Automatic Trades: Let the bot automatically buy and sell based on your customized strategy, so you don’t have to lift a finger.
 - Customizable Trading Strategy: Tailor your own trading approach to fit your risk tolerance and goals.
-- Multi-Wallet Support: Set up and manage multiple wallets, executing trades on each at the same time.
+- Multi-Wallet Support: Set up and manage multiple wallets, executing trades on each at the same time. 
 
 ### Enhanced websocket
 
