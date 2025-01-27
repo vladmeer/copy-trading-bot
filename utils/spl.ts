@@ -2,7 +2,6 @@ import { Connection, GetProgramAccountsFilter } from "@solana/web3.js";
 import { TOKEN_PROGRAM_ID } from "@solana/spl-token";
 
 /**
- * 
  * @param pubkey 
  * @returns 
  */
