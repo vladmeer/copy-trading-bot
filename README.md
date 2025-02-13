@@ -38,6 +38,14 @@ Supported on Raydium, Jupiter and Pumpfun
   ]
 }
 ```
+### Performance Analysis: Copy Trading Bot Response Time Evaluation
+Our copy trading bot has undergone comprehensive performance testing using both standard RPC and gRPC protocols. Based on our benchmarking results, we found that while our bot performs adequately, its response times are notably slower compared to industry-standard trading systems that utilize optimized RPC and gRPC services.
+For professional trading operations that require ultra-low latency, we recommend implementing performance enhancements to match the speed of high-performance trading infrastructure. Specifically, our tests indicate that a well-optimized RPC/gRPC implementation could significantly reduce latency and improve execution times for copy trading operations.
+Key observations:
+
+1. Current response times are higher than desired for real-time trading
+2. There's measurable performance gap compared to optimized RPC/gRPC services
+3. Potential for significant speed improvements through optimization
 
 # 👤 Author
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)   
