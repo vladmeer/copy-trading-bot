@@ -4,6 +4,12 @@ A copy trading bot on Solana automatically tracks and mimics the trades of a spe
 
 This bot offers comprehensive integration with all decentralized exchanges (DEXs) across the Solana ecosystem. This universal compatibility ensures maximum flexibility and optimal trading opportunities for our users.
 
+### Added Good UI for your trading
+- Can start and stop the bot easily from the frontend
+- Can set all settings with Good UI
+- Monitoring the wallet balance change and also the PnL from the char and statistical analysis
+
+
 ### Supported Trading Infrastructure:
 
 - Full integration with major Solana-based DEXs including Raydium, Orca, Jupiter Aggregator, and other prominent exchanges
@@ -26,7 +32,7 @@ This extensive DEX support empowers traders to execute strategies efficiently wh
 - Trade Across Multiple DEXs: Swap tokens on any supported decentralized exchange according to your preferences.
 - Automatic Trades: Let the bot automatically buy and sell based on your customized strategy, so you don’t have to lift a finger.
 - Customizable Trading Strategy: Tailor your own trading approach to fit your risk tolerance and goals. 
-- Multi-Wallet Support: Set up and manage multiple wallets, executing trades on each at the same time. 
+- Multi-Wallet Support: Set up and manage multiple wallets, executing trades on each at the same time.
 
 ### Performance Analysis: Copy Trading Bot Response Time Evaluation
 Our copy trading bot has undergone comprehensive performance testing using both standard RPC and gRPC protocols. Based on our benchmarking results, we found that while our bot performs adequately, its response times are notably slower compared to industry-standard trading systems that utilize optimized RPC and gRPC services.
@@ -40,7 +46,10 @@ Key observations:
 ## Examples
 
 
-https://github.com/user-attachments/assets/51d7ea58-b59e-4358-8016-fa3f3e256ec2
+
+
+https://github.com/user-attachments/assets/a962fefb-c328-49fa-9d0b-c64d61e84d84
+
 
 
 target wallet: 
