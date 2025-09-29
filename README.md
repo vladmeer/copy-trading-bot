@@ -53,16 +53,16 @@ https://github.com/user-attachments/assets/a962fefb-c328-49fa-9d0b-c64d61e84d84
 
 
 target wallet: 
-'https://solscan.io/tx/gEGTHyF1JH2GUYpML79m6rnzYpE3y2CJ3r4U2STa8himW53rzdCCAVkTdkLW9w7x3YE5pLw4vYa9qqWaLzKGrfp'
+https://solscan.io/tx/gEGTHyF1JH2GUYpML79m6rnzYpE3y2CJ3r4U2STa8himW53rzdCCAVkTdkLW9w7x3YE5pLw4vYa9qqWaLzKGrfp
 
 bot wallet: 
-`https://solscan.io/tx/i8UKtsMbkfdz481MSD68Kawj3o8AkTyHLkjiJsgGfCZAtebUBnUCZ18TYkzCZxJLAkkrteU98sHxhiq3kwtL9rc`
+https://solscan.io/tx/i8UKtsMbkfdz481MSD68Kawj3o8AkTyHLkjiJsgGfCZAtebUBnUCZ18TYkzCZxJLAkkrteU98sHxhiq3kwtL9rc
 
 target wallet: 
-`https://solscan.io/tx/4bK6m2zvpGZ9fvu48HySxezMPsSqYHBqaatMajEjWA1CxQ7CrAKAszHVALC93qhr7VP2n6Ujsi1c4JLjmhxrjDZM`
+https://solscan.io/tx/4bK6m2zvpGZ9fvu48HySxezMPsSqYHBqaatMajEjWA1CxQ7CrAKAszHVALC93qhr7VP2n6Ujsi1c4JLjmhxrjDZM
 
 bot wallet: 
-`https://solscan.io/tx/5MEM9YmL8BGboq2eEdNLqnhbMKwWQ8cZKF6zcRonBuL42bkZi8RHBmftdk61APMZecN3T9MAJoFZVjaDM9AWcvCp`
+https://solscan.io/tx/5MEM9YmL8BGboq2eEdNLqnhbMKwWQ8cZKF6zcRonBuL42bkZi8RHBmftdk61APMZecN3T9MAJoFZVjaDM9AWcvCp
 
 ## With validator node
 If you run a validator node on Solana, you have the ability to monitor and process transactions before they are confirmed on-chain. This allows you to execute trades ahead of the target wallet, leveraging real-time transaction data for a competitive advantage. By detecting incoming trades from specific wallets, you can automatically replicate or front-run profitable transactions, optimizing your trading strategy within milliseconds.
