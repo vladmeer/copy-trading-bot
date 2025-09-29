@@ -50,9 +50,7 @@ Key observations:
 
 https://github.com/user-attachments/assets/a962fefb-c328-49fa-9d0b-c64d61e84d84
 
-
-
-target wallet: 
+target wallet:
 https://solscan.io/tx/gEGTHyF1JH2GUYpML79m6rnzYpE3y2CJ3r4U2STa8himW53rzdCCAVkTdkLW9w7x3YE5pLw4vYa9qqWaLzKGrfp
 
 bot wallet: 
